@@ -73,7 +73,7 @@ print(Warriors.game_name)
 cha2.game_rules()
 cha2.attack()
 
-print("macBook")
+print("I don't have a MacBook")
 
 
 
