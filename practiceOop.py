@@ -72,12 +72,8 @@ cha1.displayInfo()
 print(Warriors.game_name)
 cha2.game_rules()
 cha2.attack()
-   
-    
 
-       
-
-
+print("apple")
 
 
 
