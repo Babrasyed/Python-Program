@@ -76,8 +76,7 @@ cha2.attack()
 print("I don't have a MacBook")
 
 
-
-
+print("I don't have a MacBook and apple products which are too expensive for a poor like me")
 
        
    
